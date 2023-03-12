@@ -1,0 +1,5 @@
+1. Opravit bugy - udělat kolize tak aby uživatel nemohl s objektem vyjít pryč z canvasu
+2. Udělat další entity (např.: frekvenční generátor, tlačíto, 4-bit digit, hodiny ...)
+3. Funkce mazání spojení, objektů, a celého canvasu 
+4. Ukládání celého logického spojení do JSON formátu tak aby si to uživatel mohl exportou a popřípadě importnout zpátky
+5. Dodělat celkový vzhled aplikace (tlačítka - menu, position canvasu ...)
